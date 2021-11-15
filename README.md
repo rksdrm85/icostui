@@ -1,2 +1,0 @@
-# icostui
-ICOST ui
